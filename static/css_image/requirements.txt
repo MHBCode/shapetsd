@@ -1,0 +1,15 @@
+ok, I was too trusting the first time, and was thinking you understood it all, that is why I want to be specific.
+1. will there be a limit to users (mobile or Desktop admin)?
+2. apps will be able to run continuously without manually taking phot or video? and option for manual photo or video.
+3. admin will be able to drag and select on image to identify text area
+4. if image is unclear, admin will enter the missing or correct misread info, and machine learning will be implemented the next time the same happens, will remember ?
+
+please tell me if you understood
+
+1. No unlimited users can use it
+
+2. Yes it will work 24/7
+
+3. Yes image can be uploaded
+
+4. Yes it will remember
